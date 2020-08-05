@@ -6,5 +6,5 @@ With the main objective of evolving as a person, contributing to the evolution o
 
 Currently studying NodeJS, ReactJS and Java.
 
-[![Linkedin](https://www.timothypope.co.uk/wp-content/uploads/2018/05/linkedin-logo-icon-655421.png)](www.linkedin.com/in/arthurpimentabraga)
-[![Instagram](https://image.flaticon.com/icons/png/128/174/174855.png)](https://www.instagram.com/arthurpbraga_/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue)](www.linkedin.com/in/arthurpimentabraga)
+[![Instagram](https://img.shields.io/badge/-Instagram-red)](https://www.instagram.com/arthurpbraga_/)
