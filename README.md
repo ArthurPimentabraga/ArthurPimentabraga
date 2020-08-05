@@ -6,5 +6,5 @@ With the main objective of evolving as a person, contributing to the evolution o
 
 Currently studying NodeJS, ReactJS and Java.
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue)](www.linkedin.com/in/arthurpimentabraga)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue)](linkedin.com/in/arthurpimentabraga)
 [![Instagram](https://img.shields.io/badge/-Instagram-red)](https://www.instagram.com/arthurpbraga_/)
