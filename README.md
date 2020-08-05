@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 #### 2nd period of Puc-Minas information systems
-Passionate about technology and development.
-With the main objective of evolving as a person, contributing to the evolution of the people around me and contributing, in some way, to our society.
+
+My name is Arthur Pimenta Braga. I am passionate about technology and development. My main objective is to evolve as a person, to contribute to the evolution of the people around me and to society.
 
 Currently studying NodeJS, ReactJS and Java.
 
