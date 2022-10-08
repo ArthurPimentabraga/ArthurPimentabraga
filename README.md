@@ -1,6 +1,6 @@
 <img src="Banner_Repository.jpg">
 
-#### 5nd period of Puc-Minas information systems
+#### 6nd period of Puc-Minas information systems
 
 My name is Arthur Pimenta Braga. I am passionate about technology and development. My main objective is to evolve as a person, to contribute to the evolution of the people around me and to society.
 
